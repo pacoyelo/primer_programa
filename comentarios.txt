@@ -1,0 +1,2 @@
+# primer archivo de texto aparte del readme
+# esto solo es una prueba
