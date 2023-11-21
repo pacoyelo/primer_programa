@@ -1,2 +1,2 @@
 # primer_programa
-mi primer programa en github
+# mi primer programa en github
